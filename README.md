@@ -28,8 +28,8 @@ These values are hard-coded near the top of [`xiao_timelapse_peach_tree.ino`](/h
 - Wi-Fi SSID: `user_SSID`
 - Wi-Fi password: `SSID_password`
 - Time zone: `EST5EDT,M3.2.0/2,M11.1.0/2`
-- Latitude: `33.018153`
-- Longitude: `-80.039578`
+- Latitude: `33.01000`
+- Longitude: `-80.00000`
 - Capture interval: `60` minutes
 - Daylight spillover: `30` minutes
 - Download AP SSID: `gardencam`

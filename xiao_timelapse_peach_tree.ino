@@ -18,8 +18,8 @@ constexpr char WIFI_PASSWORD[] = "SSID_password";
 constexpr char TZ_INFO[] = "EST5EDT,M3.2.0/2,M11.1.0/2";
 
 // Set these for your peach tree location.
-constexpr double LATITUDE = 33.018153;
-constexpr double LONGITUDE = -80.039578;
+constexpr double LATITUDE = 33.01000;
+constexpr double LONGITUDE = -80.00000;
 
 // Optional battery monitor for a 1-cell Li-ion/LiPo.
 // Wire battery + through a resistor divider to A0 so the ADC never sees more than 3.3V.
