@@ -36,8 +36,8 @@ constexpr int DAYLIGHT_SPILLOVER_MINUTES = 30;
 // Pressing it wakes the board and starts the SD download server for 30 minutes.
 constexpr uint8_t DOWNLOAD_MODE_PIN = A1;
 constexpr uint32_t DOWNLOAD_WINDOW_SECONDS = 30UL * 60UL;
-constexpr char DOWNLOAD_AP_SSID[] = "peachcam";
-constexpr char DOWNLOAD_AP_PASSWORD[] = "peachtree";
+constexpr char DOWNLOAD_AP_SSID[] = "gardencam";
+constexpr char DOWNLOAD_AP_PASSWORD[] = "gardentree";
 constexpr bool BATTERY_MONITOR_ENABLED = false;
 constexpr uint8_t BATTERY_ADC_PIN = A0;
 constexpr float BATTERY_DIVIDER_RATIO = 2.0f;
