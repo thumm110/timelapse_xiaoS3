@@ -32,8 +32,8 @@ These values are hard-coded near the top of [`xiao_timelapse_peach_tree.ino`](/h
 - Longitude: `-80.039578`
 - Capture interval: `60` minutes
 - Daylight spillover: `30` minutes
-- Download AP SSID: `peachcam`
-- Download AP password: `peachtree`
+- Download AP SSID: `gardencam`
+- Download AP password: `gardentree`
 - Download window: `30` minutes
 - SD chip select pin: `21`
 - Battery monitor: disabled by default
@@ -83,8 +83,8 @@ Recommended checklist:
 
 When the board enters download mode, it:
 
-- starts a soft AP named `peachcam`
-- uses password `peachtree`
+- starts a soft AP named `gardencam`
+- uses password `gardentree`
 - also attempts to join the configured Wi-Fi network
 - serves an HTTP interface on port `80`
 
